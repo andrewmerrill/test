@@ -1,0 +1,19 @@
+.bg {
+  background: url('http://andrewjmerrill.com/content/3.photographs/11.project-name-2/recent1-5.jpg') repeat;
+  position: fixed;
+  width: 100%;
+  height: 300%;
+  top:0;
+  left:0;
+  z-index: -1;
+}
+
+section {
+  color: #fff;
+  font-family: arial;
+  width: 500px;
+  margin: auto;
+  line-height: 20px;
+  font-size: 
+  }
+  
